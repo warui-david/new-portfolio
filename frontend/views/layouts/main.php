@@ -42,7 +42,8 @@ AppAsset::register($this);
   <header id="header" class="fixed-top">
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 class="logo"><a href="index.html">David Warui</a></h1>
+      <h1 class="logo"><a href="<?= Url::to(['site/index'])?>">David Warui</a></h1>
+      
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 

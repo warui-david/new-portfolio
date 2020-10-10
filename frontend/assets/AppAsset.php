@@ -12,7 +12,7 @@ class AppAsset extends AssetBundle
     public $basePath = '@webroot';
     public $baseUrl = '@web';
     public $css = [
-        'theme/css/site.css',
+        'css/site.css',
         'theme/assets/vendor/bootstrap/css/bootstrap.min.css',
         'theme/assets/vendor/icofont/icofont.min.css',
         'theme/assets/vendor/owl.carousel/assets/owl.carousel.min.css',

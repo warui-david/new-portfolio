@@ -4,7 +4,7 @@
 
 use yii\helpers\Html;
 
-$this->title = 'About';
+$this->title = 'Resume';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
   <main id="main">
